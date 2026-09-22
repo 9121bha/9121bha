@@ -7,7 +7,7 @@
 
 <!-- Typing tagline -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications;MERN+Stack+Developer+%7C+Problem+Solver;Turning+Ideas+Into+Clean%2C+Fast+Code;Open+to+Full+Stack+Developer+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications;Python+Full+Stack+Developer+%7C+Problem+Solver;Django+%7C+Flask+%7C+FastAPI+%7C+React;Open+to+Full+Stack+Developer+Roles" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -32,19 +32,19 @@
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-```javascript
-const bharath = {
-  role: "Full Stack Web Developer",
-  location: "India 🇮🇳",
-  experience: "Fresher — hungry to learn & build",
-  stack: ["JavaScript", "TypeScript", "React", "Node.js"],
-  currentFocus: "Mastering the MERN ecosystem",
-  funFact: "I debug with console.log() and I'm not ashamed 😄",
-  motto: "Code. Break. Fix. Repeat.",
-};
+```python
+bharath = {
+    "role": "Full Stack Web Developer",
+    "location": "India 🇮🇳",
+    "experience": "Fresher — hungry to learn & build",
+    "stack": ["Python", "Django", "Flask", "FastAPI", "React"],
+    "current_focus": "Mastering the Python full-stack ecosystem",
+    "fun_fact": "I debug with print() and I'm not ashamed 😄",
+    "motto": "Code. Break. Fix. Repeat.",
+}
 ```
 
-- 🌱 Passionate about building **clean, scalable, and user-friendly** web applications
+- 🌱 Passionate about building **clean, scalable, and user-friendly** web applications with **Python**
 - 🔭 Currently sharpening my skills in **System Design, Docker & Cloud (AWS)**
 - 🤝 Open to **collaboration**, **internships**, and **entry-level Full Stack roles**
 - ⚡ I believe great software is built on **strong fundamentals + relentless curiosity**
@@ -58,21 +58,27 @@ const bharath = {
 
 <div align="center">
 
-**Languages & Markup**
+**Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" />
 
 <br/><br/>
 
-**Frameworks & Libraries**
+**Backend Frameworks**
 <br/>
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi&theme=dark" />
 
 <br/><br/>
 
-**Backend & Database**
+**Frontend & Styling**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&theme=dark" />
+
+<br/><br/>
+
+**Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
 
 <br/><br/>
 
@@ -127,10 +133,10 @@ A full-featured e-commerce web app with authentication, cart, checkout flow, and
 
 **Tech Stack:**
 <br/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 
 <br/><br/>
 
@@ -145,8 +151,8 @@ A collaborative task/project tracker with drag-and-drop boards, real-time update
 
 **Tech Stack:**
 <br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
@@ -160,14 +166,15 @@ A collaborative task/project tracker with drag-and-drop boards, real-time update
 <tr>
 <td width="50%" valign="top">
 
-### 🌦️ Project Three — Weather Dashboard
-A responsive weather forecasting app consuming a third-party API, with location search and 5-day forecast visualization.
+### 🌦️ Project Three — Weather Dashboard API
+A responsive weather forecasting app with a FastAPI backend consuming a third-party API, featuring location search and 5-day forecast visualization.
 
 **Tech Stack:**
 <br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=fastapi&logoColor=white"/>
 
 <br/><br/>
 
@@ -214,7 +221,7 @@ This space is reserved for the next build — currently in the lab, fueled by co
 
 <img src="https://img.shields.io/badge/Problem_Solving-100%2B_Solved-38BDF8?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/MERN_Stack-Certified_Skills-22C55E?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python_Full_Stack-Certified_Skills-22C55E?style=for-the-badge&logo=python&logoColor=white"/>
 
 <br/><br/>
 
